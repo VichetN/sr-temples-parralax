@@ -24,7 +24,7 @@ function Footer() {
             "0 4px 8px #6366f1",
           ],
         }}
-        className=" text-pink-500 text-6xl md:text-7xl lg:text-9xl text-center  font-bold"
+        className=" text-pink-500 text-4xl md:text-7xl lg:text-9xl text-center  font-bold"
         // style={{
         //   textShadow: ,
         // }}
