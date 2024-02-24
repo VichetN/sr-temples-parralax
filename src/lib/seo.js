@@ -46,7 +46,7 @@ export const getSeoMetaData = ({
       title: newTitle,
       description: newDescription,
       siteName: siteName,
-      images: image?.url
+      images: imageUrl
         ? [
             {
               url: imageUrl,
